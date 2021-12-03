@@ -1,0 +1,38 @@
+{
+  "name": "graphcms-user-todos",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "0.3.4",
+    "autoprefixer": "10.4.0",
+    "postcss": "8.4.4",
+    "prettier": "2.5.0",
+    "tailwindcss": "2.2.19"
+  },
+  "dependencies": {
+    "@graphql-tools/schema": "8.3.1",
+    "@headlessui/react": "1.4.2",
+    "@heroicons/react": "1.0.5",
+    "@urql/exchange-graphcache": "4.3.5",
+    "bcryptjs": "2.4.3",
+    "classcat": "5.0.3",
+    "date-fns": "2.27.0",
+    "graphql": "16.0.1",
+    "graphql-helix": "1.10.3",
+    "graphql-request": "3.6.1",
+    "next": "12.0.4",
+    "next-auth": "4.0.1",
+    "next-urql": "3.3.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-gravatar": "2.6.3",
+    "react-hook-form": "7.20.5",
+    "react-hot-toast": "2.1.1",
+    "react-is": "17.0.2",
+    "urql": "2.0.5"
+  }
+}
